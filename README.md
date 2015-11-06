@@ -18,6 +18,6 @@ letter, the computer just laughs instead of revealing the letter’s location(s)
   - Displays a history of high scores on game play end. 
   
 # UX Sketches
-
+![img_7416](https://cloud.githubusercontent.com/assets/15363587/11006819/38ff9f14-84c6-11e5-98d0-06832fce3ae1.JPG)
   
   
